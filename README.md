@@ -3,6 +3,7 @@ Created by Michael Petrinovic 2018
 Sample Vagrant and Nexus 9000v deployment for:
 * Cisco Live Melbourne 2018: BRKDCN-2602
 * Cisco Live USA 2018: BRKDCN-2011
+* Cisco Live Barcelona 2019: BRKDCN-2011
 
 Simply based off the N9Kv image from Cisco.com " Developer Tools "
 https://www.cisco.com/c/en/us/td/docs/switches/datacenter/nexus9000/sw/7-x/nx-osv/configuration/guide/b_NX-OSv_9000/b_NX-OSv_chapter_01.html
